@@ -1,0 +1,13 @@
+body {
+    background: #FFD25F;
+    text-align: center;
+}
+.menu p {
+    display: inline;
+    margin: 20px;
+
+}
+.img-fluid {
+    width: 200px;
+    height: auto;
+}
